@@ -1,5 +1,5 @@
 # newgen_payment_assignment
-Patterns code is in the patter.html file with 3 patterns.
+Patterns code is in the patterns.html file with 3 patterns.
 Landing Page 
   > index.html
   > style.css
